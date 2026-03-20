@@ -1,2 +1,3 @@
-# auto-knowledge-base-h50i
-Automated issue comment bot repository
+# Auto Knowledge Base H50I
+
+Automated issue comment bot repository.
